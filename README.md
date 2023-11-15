@@ -9,6 +9,7 @@
 **Un poco sobre mi:**
 <br />
 Soy estudiante de Ciencia de Datos en la Facultad de Ciencias Exactas y Naturales, en la Universidad de Buenos Aires.
+<br />
 Cuento con un curso hecho de Desarrollo Web Frontend, y actualmente me encuentro profundizando los conocimientos adquiridos.
 
 **Lenguajes y herramientas que uso:** 
