@@ -1,6 +1,6 @@
-## Hola 👋, Soy Fiamma Lugo Gutierrez
+## Hola 👋, Soy Fiamma Antonella Lugo Gutierrez
 
-**Conecta conmigo:**
+### **Conecta conmigo:**
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AntonellaLG)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/falugogutierrez/)
@@ -8,7 +8,8 @@
 
 
 
-**Un poco sobre mi:**
+
+### **Un poco sobre mi:**
 
 Soy estudiante de Ciencia de Datos en la Facultad de Ciencias Exactas y Naturales, en la Universidad de Buenos Aires.
 <br />
@@ -16,7 +17,8 @@ Cuento con un curso hecho de Desarrollo Web Frontend, y actualmente me encuentro
 
 
 
-**Lenguajes y herramientas que uso:** 
+
+### **Lenguajes y herramientas que uso:** 
 
 <p> 
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
