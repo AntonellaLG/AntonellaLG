@@ -1,15 +1,14 @@
 ## Hola 👋, Soy Fiamma Lugo Gutierrez
-<h3>
-    Estudiante de Ciencia de Datos en la Facultad de Ciencias Exactas y Naturales, UBA. 
-    <br /> 
-    Aprendiendo Desarrollo Web FrontEnd.
-</h3>
 
 **Conecta conmigo:**
 <br />
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AntonellaLG)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/falugogutierrez/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fiammaantonella.falg@gmail.com)
+
+**Un poco sobre mi:**
+Soy estudiante de Ciencia de Datos en la Facultad de Ciencias Exactas y Naturales, en la Universidad de Buenos Aires.
+Cuento con un curso hecho de Desarrollo Web Frontend, y actualmente me encuentro profundizando los conocimientos adquiridos.
 
 **Lenguajes y herramientas que uso:** 
 <p> 
