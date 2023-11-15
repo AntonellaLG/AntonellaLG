@@ -7,6 +7,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fiammaantonella.falg@gmail.com)
 
 **Un poco sobre mi:**
+<br />
 Soy estudiante de Ciencia de Datos en la Facultad de Ciencias Exactas y Naturales, en la Universidad de Buenos Aires.
 Cuento con un curso hecho de Desarrollo Web Frontend, y actualmente me encuentro profundizando los conocimientos adquiridos.
 
