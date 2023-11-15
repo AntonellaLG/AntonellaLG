@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, Soy Fiamma Lugo Gutierrez</h1>
-<h3 align="center">
+## Hola 👋, Soy Fiamma Lugo Gutierrez
+<h3>
     Estudiante de Ciencia de Datos en la Facultad de Ciencias Exactas y Naturales, UBA. 
     <br /> 
     Aprendiendo Desarrollo Web FrontEnd.
