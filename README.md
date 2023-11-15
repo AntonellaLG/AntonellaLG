@@ -1,6 +1,5 @@
 <h1 align="center">Hola 👋, Soy Fiamma Lugo Gutierrez</h1>
-<h3 align="center">Estudiante de Ciencia de Datos en la Facultad de Ciencias Exactas y Naturales, UBA.</h3> 
-<h3 aling="center">Aprendiendo Desarrollo Web FrontEnd.</h3>
+<h3 align="center">Estudiante de Ciencia de Datos en la Facultad de Ciencias Exactas y Naturales, UBA. <br> Aprendiendo Desarrollo Web FrontEnd.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -9,6 +8,10 @@
 
 **Lenguajes y herramientas que uso:** 
 <p>
+    <a href="https://github.com/onimur/handle-path-oz">
+        <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=onimur&show_icons=true&hide_border=true" />
+    </a>
+    
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
