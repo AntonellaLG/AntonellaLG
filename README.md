@@ -1,17 +1,17 @@
 <h1 align="center">Hola 👋, Soy Fiamma Lugo Gutierrez</h1>
-<h3 align="center">Estudiante de Ciencia de Datos en la Facultad de Ciencias Exactas y Naturales, UBA. <br> Aprendiendo Desarrollo Web FrontEnd.</h3>
+<h3 align="center">
+    Estudiante de Ciencia de Datos en la Facultad de Ciencias Exactas y Naturales, UBA. 
+    <br /> 
+    Aprendiendo Desarrollo Web FrontEnd.
+</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/falugogutierrez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/falugogutierrez/" height="30" width="40" /></a>
-</p>
+**Conecta conmigo:**
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/onimur)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/falugogutierrez/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fiammaantonella.falg@gmail.com)
 
 **Lenguajes y herramientas que uso:** 
-<p>
-    <a href="https://github.com/onimur/handle-path-oz">
-        <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=onimur&show_icons=true&hide_border=true" />
-    </a>
-    
+<p> 
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
