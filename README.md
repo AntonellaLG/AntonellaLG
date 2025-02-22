@@ -26,5 +26,7 @@ Cuento con un curso hecho de Desarrollo Web Frontend, y actualmente me encuentro
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
 </p>
 
