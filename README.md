@@ -2,10 +2,9 @@
 
 ### **Conecta conmigo:**
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AntonellaLG)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/falugogutierrez/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fiammaantonella.falg@gmail.com)
-
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/falugogutierrez/)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AntonellaLG)
 
 
 
@@ -13,8 +12,9 @@
 
 Soy estudiante de Ciencia de Datos en la Facultad de Ciencias Exactas y Naturales, en la Universidad de Buenos Aires.
 <br />
-Cuento con un curso hecho de Desarrollo Web Frontend, y actualmente me encuentro profundizando los conocimientos adquiridos.
-
+Tengo conocimientos en Desarrollo Web Frontend, y actualmente me encuentro profundizando los conocimientos adquiridos.
+<br/>
+Además, a mediados de marzo voy a comenzar un curso en Desarrollo Web Backend, para complementar mi formación.
 
 
 
